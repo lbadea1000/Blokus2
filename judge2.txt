@@ -1,0 +1,10 @@
+set_game Blokus Duo
+clear_board
+cputime
+play b d8,d9,c10,d10,e10
+play b b5,c5,c6,c7
+play b a7,a8,b8,a9,b9
+play b e4,e5,e6,f6,e7
+play b b1,c1,c2,c3,d3
+play b a2,a3
+play b a11,b11,b12,c12

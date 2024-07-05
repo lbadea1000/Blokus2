@@ -1,0 +1,775 @@
+Created moves: 13730, precomp: 1097242
+B>> set_game Blokus Duo
+B<< =
+W>> set_game Blokus Duo
+Created moves: 30434, precomp: 2475874
+Using 23 MB of 34359 MB
+Setting default parameters for Blokus
+Creating 1 threads
+Created moves: 13730, precomp: 1097242
+W<< =
+================================================
+Game 0
+================================================
+B>> clear_board
+B<< =
+W>> clear_board
+W<< =
+B>> cputime
+B<< = 0.000
+W>> cputime
+W<< = 0.02
+B>> genmove b
+14
+13
+12
+11
+10
+ 9
+ 8
+ 7
+ 6
+ 5
+ 4
+ 3
+ 2
+ 1
+   a b c d e f g h i j k l m n
+14
+13
+12
+11
+10
+ 9
+ 8
+ 7
+ 6
+ 5
+ 4
+ 3
+ 2
+ 1
+   a b c d e f g h i j k l m n
+14
+13
+12
+11
+10
+ 9
+ 8
+ 7
+ 6
+ 5
+ 4
+ 3
+ 2
+ 1
+   a b c d e f g h i j k l m n
+B<< = c10,d10,e10,d9,d8
+W>> play b d8,d9,c10,d10,e10
+W<< =
+W>> genmove w
+Could not load book ../../../Desktop/pentobi/pentobi_gtp/book_duo.blksgf
+MaxCnt 90
+Setting default parameters for Blokus Duo
+[0] Maximum count reached
+Val 0.26, ValCnt 91, Vst 90, Sim 90, Chld 55.6%
+Nds 9323, Tm 00:00, Sim/s 13405, Len 22.4 dev=2.5 [16...29]
+Dp 3.1 dev=1.3 [1...6]
+Mov 315, Sco 3.3 dev=5.1
+W<< = j5,i6,j6,k6,j7
+B>> play w j5,i6,j6,k6,j7
+14
+13
+12
+11
+10
+ 9
+ 8
+ 7
+ 6
+ 5
+ 4
+ 3
+ 2
+ 1
+   a b c d e f g h i j k l m n
+14
+13
+12
+11
+10
+ 9
+ 8
+ 7
+ 6
+ 5
+ 4
+ 3
+ 2
+ 1
+   a b c d e f g h i j k l m n
+14
+13
+12
+11
+10
+ 9
+ 8
+ 7
+ 6
+ 5
+ 4
+ 3
+ 2
+ 1
+   a b c d e f g h i j k l m n
+B<< =
+B>> genmove b
+14
+13
+12
+11
+10
+ 9
+ 8
+ 7
+ 6
+ 5
+ 4
+ 3
+ 2
+ 1
+   a b c d e f g h i j k l m n
+14
+13
+12
+11
+10
+ 9
+ 8
+ 7
+ 6
+ 5
+ 4
+ 3
+ 2
+ 1
+   a b c d e f g h i j k l m n
+14
+13
+12
+11
+10
+ 9
+ 8
+ 7
+ 6
+ 5
+ 4
+ 3
+ 2
+ 1
+   a b c d e f g h i j k l m n
+B<< = c7,c6,b5,c5
+W>> play b b5,c5,c6,c7
+W<< =
+W>> genmove w
+Could not load book ../../../Desktop/pentobi/pentobi_gtp/book_duo.blksgf
+MaxCnt 165
+[0] Maximum count reached
+Val 0.47, ValCnt 256, Vst 165, Sim 165, Chld 64.8%
+Nds 13292, Tm 00:00, Sim/s 32226, Len 21.6 dev=2.7 [13...31]
+Dp 3.6 dev=1.7 [1...8]
+Mov 578, Sco 0.0 dev=5.2
+W<< = i8,i9,h10,i10,h11
+B>> play w i8,i9,h10,i10,h11
+14
+13
+12
+11
+10
+ 9
+ 8
+ 7
+ 6
+ 5
+ 4
+ 3
+ 2
+ 1
+   a b c d e f g h i j k l m n
+14
+13
+12
+11
+10
+ 9
+ 8
+ 7
+ 6
+ 5
+ 4
+ 3
+ 2
+ 1
+   a b c d e f g h i j k l m n
+14
+13
+12
+11
+10
+ 9
+ 8
+ 7
+ 6
+ 5
+ 4
+ 3
+ 2
+ 1
+   a b c d e f g h i j k l m n
+B<< =
+B>> genmove b
+14
+13
+12
+11
+10
+ 9
+ 8
+ 7
+ 6
+ 5
+ 4
+ 3
+ 2
+ 1
+   a b c d e f g h i j k l m n
+14
+13
+12
+11
+10
+ 9
+ 8
+ 7
+ 6
+ 5
+ 4
+ 3
+ 2
+ 1
+   a b c d e f g h i j k l m n
+14
+13
+12
+11
+10
+ 9
+ 8
+ 7
+ 6
+ 5
+ 4
+ 3
+ 2
+ 1
+   a b c d e f g h i j k l m n
+B<< = a9,b9,a8,b8,a7
+W>> play b a7,a8,b8,a9,b9
+W<< =
+W>> genmove w
+Could not load book ../../../Desktop/pentobi/pentobi_gtp/book_duo.blksgf
+MaxCnt 183
+[0] Maximum count reached
+Val 0.69, ValCnt 283, Vst 183, Sim 183, Chld 97.8%
+Nds 14655, Tm 00:00, Sim/s 44224, Len 19.3 dev=3.8 [11...27]
+Dp 4.0 dev=1.6 [1...8]
+Mov 817, Sco -3.3 dev=3.9
+W<< = f8,f9,g9,f10,f11
+B>> play w f8,f9,g9,f10,f11
+14
+13
+12
+11
+10
+ 9
+ 8
+ 7
+ 6
+ 5
+ 4
+ 3
+ 2
+ 1
+   a b c d e f g h i j k l m n
+14
+13
+12
+11
+10
+ 9
+ 8
+ 7
+ 6
+ 5
+ 4
+ 3
+ 2
+ 1
+   a b c d e f g h i j k l m n
+14
+13
+12
+11
+10
+ 9
+ 8
+ 7
+ 6
+ 5
+ 4
+ 3
+ 2
+ 1
+   a b c d e f g h i j k l m n
+B<< =
+B>> genmove b
+14
+13
+12
+11
+10
+ 9
+ 8
+ 7
+ 6
+ 5
+ 4
+ 3
+ 2
+ 1
+   a b c d e f g h i j k l m n
+14
+13
+12
+11
+10
+ 9
+ 8
+ 7
+ 6
+ 5
+ 4
+ 3
+ 2
+ 1
+   a b c d e f g h i j k l m n
+14
+13
+12
+11
+10
+ 9
+ 8
+ 7
+ 6
+ 5
+ 4
+ 3
+ 2
+ 1
+   a b c d e f g h i j k l m n
+B<< = e7,e6,f6,e5,e4
+W>> play b e4,e5,e6,f6,e7
+W<< =
+W>> genmove w
+Could not load book ../../../Desktop/pentobi/pentobi_gtp/book_duo.blksgf
+MaxCnt 202
+[0] Maximum count reached
+Val 0.88, ValCnt 302, Vst 202, Sim 202, Chld 88.6%
+Nds 13815, Tm 00:00, Sim/s 65415, Len 14.1 dev=2.7 [9...25]
+Dp 3.2 dev=1.4 [1...7]
+Mov 732, Sco -5.6 dev=2.3
+W<< = g5,h5,g6,g7,h7
+B>> play w g5,h5,g6,g7,h7
+14
+13
+12
+11
+10
+ 9
+ 8
+ 7
+ 6
+ 5
+ 4
+ 3
+ 2
+ 1
+   a b c d e f g h i j k l m n
+14
+13
+12
+11
+10
+ 9
+ 8
+ 7
+ 6
+ 5
+ 4
+ 3
+ 2
+ 1
+   a b c d e f g h i j k l m n
+14
+13
+12
+11
+10
+ 9
+ 8
+ 7
+ 6
+ 5
+ 4
+ 3
+ 2
+ 1
+   a b c d e f g h i j k l m n
+B<< =
+B>> genmove b
+14
+13
+12
+11
+10
+ 9
+ 8
+ 7
+ 6
+ 5
+ 4
+ 3
+ 2
+ 1
+   a b c d e f g h i j k l m n
+14
+13
+12
+11
+10
+ 9
+ 8
+ 7
+ 6
+ 5
+ 4
+ 3
+ 2
+ 1
+   a b c d e f g h i j k l m n
+14
+13
+12
+11
+10
+ 9
+ 8
+ 7
+ 6
+ 5
+ 4
+ 3
+ 2
+ 1
+   a b c d e f g h i j k l m n
+B<< = c3,d3,c2,b1,c1
+W>> play b b1,c1,c2,c3,d3
+W<< =
+W>> genmove w
+Could not load book ../../../Desktop/pentobi/pentobi_gtp/book_duo.blksgf
+MaxCnt 223
+[0] Maximum count reached
+Val 0.93, ValCnt 323, Vst 223, Sim 223, Chld 33.2%
+Nds 13643, Tm 00:00, Sim/s 123216, Len 9.1 dev=3.4 [5...19]
+Dp 3.6 dev=1.5 [1...7]
+Mov 605, Sco -4.8 dev=2.1
+W<< = e2,e3,f3,g3,f4
+B>> play w e2,e3,f3,g3,f4
+14
+13
+12
+11
+10
+ 9
+ 8
+ 7
+ 6
+ 5
+ 4
+ 3
+ 2
+ 1
+   a b c d e f g h i j k l m n
+14
+13
+12
+11
+10
+ 9
+ 8
+ 7
+ 6
+ 5
+ 4
+ 3
+ 2
+ 1
+   a b c d e f g h i j k l m n
+14
+13
+12
+11
+10
+ 9
+ 8
+ 7
+ 6
+ 5
+ 4
+ 3
+ 2
+ 1
+   a b c d e f g h i j k l m n
+B<< =
+B>> genmove b
+14
+13
+12
+11
+10
+ 9
+ 8
+ 7
+ 6
+ 5
+ 4
+ 3
+ 2
+ 1
+   a b c d e f g h i j k l m n
+14
+13
+12
+11
+10
+ 9
+ 8
+ 7
+ 6
+ 5
+ 4
+ 3
+ 2
+ 1
+   a b c d e f g h i j k l m n
+14
+13
+12
+11
+10
+ 9
+ 8
+ 7
+ 6
+ 5
+ 4
+ 3
+ 2
+ 1
+   a b c d e f g h i j k l m n
+B<< = a3,a2
+W>> play b a2,a3
+W<< =
+W>> genmove w
+Could not load book ../../../Desktop/pentobi/pentobi_gtp/book_duo.blksgf
+MaxCnt 246
+[0] Maximum count reached
+Val 1.00, ValCnt 346, Vst 246, Sim 246, Chld 81.3%
+Nds 15158, Tm 00:00, Sim/s 202950, Len 5.4 dev=1.7 [3...15]
+Dp 3.5 dev=1.4 [1...7]
+Mov 567, Sco -6.3 dev=2.2
+W<< = c4,d4,d5,d6,d7
+B>> play w c4,d4,d5,d6,d7
+14
+13
+12
+11
+10
+ 9
+ 8
+ 7
+ 6
+ 5
+ 4
+ 3
+ 2
+ 1
+   a b c d e f g h i j k l m n
+14
+13
+12
+11
+10
+ 9
+ 8
+ 7
+ 6
+ 5
+ 4
+ 3
+ 2
+ 1
+   a b c d e f g h i j k l m n
+14
+13
+12
+11
+10
+ 9
+ 8
+ 7
+ 6
+ 5
+ 4
+ 3
+ 2
+ 1
+   a b c d e f g h i j k l m n
+B<< =
+B>> genmove b
+14
+13
+12
+11
+10
+ 9
+ 8
+ 7
+ 6
+ 5
+ 4
+ 3
+ 2
+ 1
+   a b c d e f g h i j k l m n
+14
+13
+12
+11
+10
+ 9
+ 8
+ 7
+ 6
+ 5
+ 4
+ 3
+ 2
+ 1
+   a b c d e f g h i j k l m n
+14
+13
+12
+11
+10
+ 9
+ 8
+ 7
+ 6
+ 5
+ 4
+ 3
+ 2
+ 1
+   a b c d e f g h i j k l m n
+B<< = b12,c12,a11,b11
+W>> play b a11,b11,b12,c12
+W<< =
+W>> genmove w
+Could not load book ../../../Desktop/pentobi/pentobi_gtp/book_duo.blksgf
+MaxCnt 272
+[0] Maximum count reached
+Val 1.13, ValCnt 372, Vst 272, Sim 272, Chld 97.4%
+Nds 3858, Tm 00:00, Sim/s 195117, Len 12.3 dev=5.1 [3...21]
+Dp 11.7 dev=5.2 [1...20]
+Mov 484, Sco -28.9 dev=11.3
+W<< = e12,d13,e13,c14,d14
+B>> play w e12,d13,e13,c14,d14
+14
+13
+12
+11
+10
+ 9
+ 8
+ 7
+ 6
+ 5
+ 4
+ 3
+ 2
+ 1
+   a b c d e f g h i j k l m n
+14
+13
+12
+11
+10
+ 9
+ 8
+ 7
+ 6
+ 5
+ 4
+ 3
+ 2
+ 1
+   a b c d e f g h i j k l m n
+14
+13
+12
+11
+10
+ 9
+ 8
+ 7
+ 6
+ 5
+ 4
+ 3
+ 2
+ 1
+   a b c d e f g h i j k l m n
+B<< =
+B>> genmove b
+14
+13
+12
+11
+10
+ 9
+ 8
+ 7
+ 6
+ 5
+ 4
+ 3
+ 2
+ 1
+   a b c d e f g h i j k l m n
+B<< = b12,c12,d12,e12,b11
+Error: invalid move: b11,b12,c12,d12,e12

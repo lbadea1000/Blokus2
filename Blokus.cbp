@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Blokus"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/lucian/Documents/GitHub/Blokus2/Blokus"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/lucian/Documents/GitHub/Blokus2/Blokus/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/lucian/Documents/GitHub/Blokus2/Blokus/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/lucian/Documents/GitHub/Blokus2/Blokus/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/lucian/Documents/GitHub/Blokus2/Blokus/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Blokus">
+				<Option output="/Users/lucian/Documents/GitHub/Blokus2/Blokus/Blokus" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lucian/Documents/GitHub/Blokus2/Blokus"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/lucian/Documents/GitHub/Blokus2/Blokus/Makefile&quot;  VERBOSE=1 Blokus"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/lucian/Documents/GitHub/Blokus2/Blokus/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/lucian/Documents/GitHub/Blokus2/Blokus/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/lucian/Documents/GitHub/Blokus2/Blokus/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Blokus/fast">
+				<Option output="/Users/lucian/Documents/GitHub/Blokus2/Blokus/Blokus" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lucian/Documents/GitHub/Blokus2/Blokus"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/lucian/Documents/GitHub/Blokus2/Blokus/Makefile&quot;  VERBOSE=1 Blokus/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/lucian/Documents/GitHub/Blokus2/Blokus/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/lucian/Documents/GitHub/Blokus2/Blokus/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/lucian/Documents/GitHub/Blokus2/Blokus/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/lucian/Documents/GitHub/Blokus2/Blokus"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/lucian/Documents/GitHub/Blokus2/Blokus/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/lucian/Documents/GitHub/Blokus2/Blokus/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/lucian/Documents/GitHub/Blokus2/Blokus/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/lucian/Documents/GitHub/Blokus2/Blokus/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/lucian/Documents/GitHub/Blokus2/Blokus"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/lucian/Documents/GitHub/Blokus2/Blokus/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/lucian/Documents/GitHub/Blokus2/Blokus/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/lucian/Documents/GitHub/Blokus2/Blokus/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/lucian/Documents/GitHub/Blokus2/Blokus/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/lucian/Documents/GitHub/Blokus2/Blokus/AllShapes.h">
+			<Option target="Blokus"/>
+		</Unit>
+		<Unit filename="/Users/lucian/Documents/GitHub/Blokus2/Blokus/Board.cpp">
+			<Option target="Blokus"/>
+		</Unit>
+		<Unit filename="/Users/lucian/Documents/GitHub/Blokus2/Blokus/Board.h">
+			<Option target="Blokus"/>
+		</Unit>
+		<Unit filename="/Users/lucian/Documents/GitHub/Blokus2/Blokus/Cell.cpp">
+			<Option target="Blokus"/>
+		</Unit>
+		<Unit filename="/Users/lucian/Documents/GitHub/Blokus2/Blokus/Cell.h">
+			<Option target="Blokus"/>
+		</Unit>
+		<Unit filename="/Users/lucian/Documents/GitHub/Blokus2/Blokus/Clock.cpp">
+			<Option target="Blokus"/>
+		</Unit>
+		<Unit filename="/Users/lucian/Documents/GitHub/Blokus2/Blokus/Clock.h">
+			<Option target="Blokus"/>
+		</Unit>
+		<Unit filename="/Users/lucian/Documents/GitHub/Blokus2/Blokus/Commands.cpp">
+			<Option target="Blokus"/>
+		</Unit>
+		<Unit filename="/Users/lucian/Documents/GitHub/Blokus2/Blokus/Commands.h">
+			<Option target="Blokus"/>
+		</Unit>
+		<Unit filename="/Users/lucian/Documents/GitHub/Blokus2/Blokus/GlobalVars.h">
+			<Option target="Blokus"/>
+		</Unit>
+		<Unit filename="/Users/lucian/Documents/GitHub/Blokus2/Blokus/Move.cpp">
+			<Option target="Blokus"/>
+		</Unit>
+		<Unit filename="/Users/lucian/Documents/GitHub/Blokus2/Blokus/Move.h">
+			<Option target="Blokus"/>
+		</Unit>
+		<Unit filename="/Users/lucian/Documents/GitHub/Blokus2/Blokus/Piece.cpp">
+			<Option target="Blokus"/>
+		</Unit>
+		<Unit filename="/Users/lucian/Documents/GitHub/Blokus2/Blokus/Piece.h">
+			<Option target="Blokus"/>
+		</Unit>
+		<Unit filename="/Users/lucian/Documents/GitHub/Blokus2/Blokus/PieceSet.cpp">
+			<Option target="Blokus"/>
+		</Unit>
+		<Unit filename="/Users/lucian/Documents/GitHub/Blokus2/Blokus/PieceSet.h">
+			<Option target="Blokus"/>
+		</Unit>
+		<Unit filename="/Users/lucian/Documents/GitHub/Blokus2/Blokus/Random.h">
+			<Option target="Blokus"/>
+		</Unit>
+		<Unit filename="/Users/lucian/Documents/GitHub/Blokus2/Blokus/RandomMoveGen.cpp">
+			<Option target="Blokus"/>
+		</Unit>
+		<Unit filename="/Users/lucian/Documents/GitHub/Blokus2/Blokus/RandomMoveGen.h">
+			<Option target="Blokus"/>
+		</Unit>
+		<Unit filename="/Users/lucian/Documents/GitHub/Blokus2/Blokus/main.cpp">
+			<Option target="Blokus"/>
+		</Unit>
+		<Unit filename="/Users/lucian/Documents/GitHub/Blokus2/Blokus/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
